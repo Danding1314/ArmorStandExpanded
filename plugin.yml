@@ -6,4 +6,4 @@ api:
 mcpe-protocol: 408
 author: HighTec
 description: "Adds fully functional ArmorStands to your Pocketmine-MP Server. Supports the MyPlot Plot-Protection"
-load: STARTUP
+load: POSTWORLD

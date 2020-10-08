@@ -27,7 +27,7 @@ class ArmorStandExpanded extends PluginBase
     public function onEnable()
     {
         Entity::registerEntity(EntityArmorStand::class, true, ['ArmorStand', 'minecraft:armor_stand']);
-        ItemFactory::registerItem(new ArmorStand());
+        ItemFactory::registerItem(new ArmorStand(), true);
         Item::initCreativeItems();
         $this->getServer()->getPluginManager()->registerEvents(new EventListener($this), $this);
         if (!is_null($this->getServer()->getPluginManager()->getPlugin("MyPlot"))) {
