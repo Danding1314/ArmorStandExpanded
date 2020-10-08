@@ -230,7 +230,6 @@ class ArmorStand extends Living
                 $contents[$player->getInventory()->getHeldItemIndex()]->setCount($contents[$player->getInventory()->getHeldItemIndex()]->getCount() - 1);
                 $player->getInventory()->setContents($contents);
             }
-            $targetItem->pop();
         }
         if (!$targetItem->isNull() and $targetItem->equals($sourceItem)) {
             $targetItem->setCount($targetItem->getCount() + $sourceItem->getCount());
