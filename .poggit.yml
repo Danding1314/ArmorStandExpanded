@@ -4,5 +4,6 @@ branches:
 - main
 projects:
   ArmorStandExpanded:
+    icon: "icon.png"
     path: ""
 ...
