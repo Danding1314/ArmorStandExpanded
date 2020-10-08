@@ -44,7 +44,7 @@ Thats easy. Just give it a RightClick while you are sneaking.
 
 The armor stand has 12 poses that are switched through with each right click
 
-<img src="https://github.com/HighTecDev/sadfghjk/blob/main/img/pose_img1.jpg" height="250"> <img src="https://github.com/HighTecDev/sadfghjk/blob/main/img/pose_img2.jpg" height="250"> <img src="https://github.com/HighTecDev/sadfghjk/blob/main/img/pose_img3.jpg" height="250">
+<img src="https://github.com/HighTecDev/ArmorStandExpanded/blob/main/img/pose_img1.jpg" height="250"> <img src="https://github.com/HighTecDev/ArmorStandExpanded/blob/main/img/pose_img2.jpg" height="250"> <img src="https://github.com/HighTecDev/ArmorStandExpanded/blob/main/img/pose_img3.jpg" height="250">
 
 #### What did you mean about the PlotProtection?
 
